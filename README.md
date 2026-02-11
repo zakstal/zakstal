@@ -1,6 +1,6 @@
 # Zak Stallings
 
-Full‑stack/product engineer with ~10 years in early‑stage startups: I drive 0→1 builds, set technical direction, and unblock teams while shipping end‑to‑end (UI → backend → deployment → ops).
+Full‑stack/product engineer with ~10 years in early‑stage startups: I drive 0→1 builds, set technical direction, and raise the execution bar while shipping end‑to‑end (UI → backend → deployment → ops).
 
 - 🧭 **Focus:** product engineering, realtime systems, AI features that actually ship
 - 🧰 **Tools:** React/Next.js, TypeScript, Node, Postgres/Supabase, Docker, AWS
