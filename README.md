@@ -1,6 +1,6 @@
 # Zak Stallings
 
-Engineering manager / full‑stack builder with ~10 years in early‑stage startups. I like shipping real products: UI → backend → deployment → ops.
+Staff/principal‑level full‑stack/product engineer with ~10 years in early‑stage startups. I like shipping real products: UI → backend → deployment → ops.
 
 - 🧭 **Focus:** product engineering, realtime systems, AI features that actually ship
 - 🧰 **Tools:** React/Next.js, TypeScript, Node, Postgres/Supabase, Docker, AWS
